@@ -1,0 +1,8 @@
+filters:
+  keywords:
+    - python
+    - django
+    - flask
+  locations:
+    - remote
+    - worldwide
